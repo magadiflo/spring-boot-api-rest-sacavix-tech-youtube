@@ -1,0 +1,12 @@
+com\magadiflo\todoapp\controller\TaskController.class
+com\magadiflo\todoapp\mapper\TaskInDTOToTask.class
+com\magadiflo\todoapp\TodoappApplication.class
+com\magadiflo\todoapp\mapper\IMapper.class
+com\magadiflo\todoapp\persistence\repository\ITaskRepository.class
+com\magadiflo\todoapp\context\SwaggerConfig.class
+com\magadiflo\todoapp\persistence\entity\TaskStatus.class
+com\magadiflo\todoapp\exceptions\ExceptionHandler.class
+com\magadiflo\todoapp\service\TaskService.class
+com\magadiflo\todoapp\service\dto\TaskInDTO.class
+com\magadiflo\todoapp\exceptions\ToDoExceptions.class
+com\magadiflo\todoapp\persistence\entity\Task.class
